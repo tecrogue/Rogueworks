@@ -1,0 +1,634 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "forge-39.0.66",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0",
+  "author": "tecrogue",
+  "name": "Roguetest",
+  "files": [
+    {
+      "projectID": 55438,
+      "fileID": 3616801,
+      "required": true,
+      "__meta": {
+        "name": "MrCrayfish's Furniture Mod"
+      }
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3578801,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 223852,
+      "fileID": 3611505,
+      "required": true,
+      "__meta": {
+        "name": "Storage Drawers"
+      }
+    },
+    {
+      "projectID": 231275,
+      "fileID": 3548400,
+      "required": true,
+      "__meta": {
+        "name": "Ding"
+      }
+    },
+    {
+      "projectID": 231484,
+      "fileID": 3606191,
+      "required": true,
+      "__meta": {
+        "name": "Cooking for Blockheads",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 231951,
+      "fileID": 3587149,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Engineering"
+      }
+    },
+    {
+      "projectID": 233019,
+      "fileID": 3543562,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements"
+      }
+    },
+    {
+      "projectID": 233071,
+      "fileID": 3584842,
+      "required": true,
+      "__meta": {
+        "name": "Crafting Tweaks",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 235577,
+      "fileID": 3584917,
+      "required": true,
+      "__meta": {
+        "name": "TrashSlot",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3629529,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3575590,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)",
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
+      "projectID": 240633,
+      "fileID": 3543137,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Sorter"
+      }
+    },
+    {
+      "projectID": 241160,
+      "fileID": 3549513,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 241895,
+      "fileID": 3606197,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 243121,
+      "fileID": 3578106,
+      "required": true,
+      "__meta": {
+        "name": "Quark",
+        "dependencies": [
+          250363
+        ]
+      }
+    },
+    {
+      "projectID": 243707,
+      "fileID": 3634510,
+      "required": true,
+      "__meta": {
+        "name": "Corail Tombstone"
+      }
+    },
+    {
+      "projectID": 245506,
+      "fileID": 3630098,
+      "required": true,
+      "__meta": {
+        "name": "MineColonies",
+        "dependencies": [
+          527361,
+          303278,
+          522992,
+          298744
+        ]
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3606153,
+      "required": true,
+      "__meta": {
+        "name": "Waystones",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3626712,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin"
+      }
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3575622,
+      "required": true,
+      "__meta": {
+        "name": "AutoRegLib"
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 3627070,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 250898,
+      "fileID": 3629899,
+      "required": true,
+      "__meta": {
+        "name": "Ore Excavation"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3616324,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 261251,
+      "fileID": 3625491,
+      "required": true,
+      "__meta": {
+        "name": "Bad Wither No Cookie - Reloaded"
+      }
+    },
+    {
+      "projectID": 261924,
+      "fileID": 3606204,
+      "required": true,
+      "__meta": {
+        "name": "Farming for Blockheads",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3631945,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap"
+      }
+    },
+    {
+      "projectID": 271740,
+      "fileID": 3566996,
+      "required": true,
+      "__meta": {
+        "name": "Toast Control",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3575636,
+      "required": true,
+      "__meta": {
+        "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 274259,
+      "fileID": 3601938,
+      "required": true,
+      "__meta": {
+        "name": "Carry On"
+      }
+    },
+    {
+      "projectID": 277616,
+      "fileID": 3571539,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Life: Carrot Edition"
+      }
+    },
+    {
+      "projectID": 278993,
+      "fileID": 3637798,
+      "required": true,
+      "__meta": {
+        "name": "Bonsai Trees 3",
+        "dependencies": [
+          357557
+        ]
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 3623934,
+      "required": true,
+      "__meta": {
+        "name": "Placebo"
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 3567080,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 289712,
+      "fileID": 3620466,
+      "required": true,
+      "__meta": {
+        "name": "Tetra",
+        "dependencies": [
+          351914
+        ]
+      }
+    },
+    {
+      "projectID": 298744,
+      "fileID": 3622660,
+      "required": true,
+      "__meta": {
+        "name": "Structurize"
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 3568851,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace"
+      }
+    },
+    {
+      "projectID": 303278,
+      "fileID": 3543720,
+      "required": true,
+      "__meta": {
+        "name": "Multi-Piston",
+        "dependencies": [
+          522992,
+          298744
+        ]
+      }
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3630725,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli"
+      }
+    },
+    {
+      "projectID": 317780,
+      "fileID": 3631946,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's World Map"
+      }
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3623348,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
+      "projectID": 342543,
+      "fileID": 3630751,
+      "required": true,
+      "__meta": {
+        "name": "Mahou Tsukai"
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3608026,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Forge)"
+      }
+    },
+    {
+      "projectID": 351725,
+      "fileID": 3561175,
+      "required": true,
+      "__meta": {
+        "name": "Macaw's Bridges"
+      }
+    },
+    {
+      "projectID": 351914,
+      "fileID": 3612472,
+      "required": true,
+      "__meta": {
+        "name": "mutil"
+      }
+    },
+    {
+      "projectID": 357557,
+      "fileID": 3637795,
+      "required": true,
+      "__meta": {
+        "name": "Libnonymous"
+      }
+    },
+    {
+      "projectID": 366140,
+      "fileID": 3634448,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic View[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 388800,
+      "fileID": 3604752,
+      "required": true,
+      "__meta": {
+        "name": "Polymorph (Forge)"
+      }
+    },
+    {
+      "projectID": 392805,
+      "fileID": 3542929,
+      "required": true,
+      "__meta": {
+        "name": "CleanCut"
+      }
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3615366,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight"
+      }
+    },
+    {
+      "projectID": 399558,
+      "fileID": 3562331,
+      "required": true,
+      "__meta": {
+        "name": "Construction Wand"
+      }
+    },
+    {
+      "projectID": 407174,
+      "fileID": 3544525,
+      "required": true,
+      "__meta": {
+        "name": "Shutup Experimental Settings!"
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3636540,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Forge)"
+      }
+    },
+    {
+      "projectID": 429235,
+      "fileID": 3550045,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Forge)"
+      }
+    },
+    {
+      "projectID": 431430,
+      "fileID": 3544460,
+      "required": true,
+      "__meta": {
+        "name": "FlickerFix"
+      }
+    },
+    {
+      "projectID": 446253,
+      "fileID": 3615205,
+      "required": true,
+      "__meta": {
+        "name": "Better Biome Blend"
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3635673,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
+      }
+    },
+    {
+      "projectID": 455982,
+      "fileID": 3635139,
+      "required": true,
+      "__meta": {
+        "name": "WTHIT Forge Edition"
+      }
+    },
+    {
+      "projectID": 457570,
+      "fileID": 3559398,
+      "required": true,
+      "__meta": {
+        "name": "Configured"
+      }
+    },
+    {
+      "projectID": 459701,
+      "fileID": 3559402,
+      "required": true,
+      "__meta": {
+        "name": "Catalogue"
+      }
+    },
+    {
+      "projectID": 475117,
+      "fileID": 3567088,
+      "required": true,
+      "__meta": {
+        "name": "FastSuite",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3623314,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel"
+      }
+    },
+    {
+      "projectID": 486485,
+      "fileID": 3567049,
+      "required": true,
+      "__meta": {
+        "name": "Better Recipe Book (BRB)"
+      }
+    },
+    {
+      "projectID": 495693,
+      "fileID": 3604395,
+      "required": true,
+      "__meta": {
+        "name": "Farsight[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 522992,
+      "fileID": 3615809,
+      "required": true,
+      "__meta": {
+        "name": "BlockUI"
+      }
+    },
+    {
+      "projectID": 527361,
+      "fileID": 3608666,
+      "required": true,
+      "__meta": {
+        "name": "Domum Ornamentum"
+      }
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3630241,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Forge Edition)"
+      }
+    },
+    {
+      "projectID": 548599,
+      "fileID": 3635844,
+      "required": true,
+      "__meta": {
+        "name": "Hexerei"
+      }
+    },
+    {
+      "projectID": 550678,
+      "fileID": 3616565,
+      "required": true,
+      "__meta": {
+        "name": "Too Fast"
+      }
+    },
+    {
+      "projectID": 551520,
+      "fileID": 3598709,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 570017,
+      "fileID": 3637704,
+      "required": true,
+      "__meta": {
+        "name": "Radium Reforged"
+      }
+    }
+  ]
+}
